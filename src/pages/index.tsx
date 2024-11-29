@@ -1067,12 +1067,12 @@ export default function Home() {
                           {section.artworks[0].description}
                         </p>
 
-                        <div className="grid grid-cols-3 gap-6">
+                        <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
                           <div className="space-y-2 group">
                             <span className="block text-purple-300/60 text-sm uppercase tracking-wider">
                               Type
                             </span>
-                            <span className="block text-purple-200 font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-200 to-pink-200 group-hover:scale-105 transition-transform duration-300">
+                            <span className="block text-purple-200 font-small bg-clip-text text-transparent bg-gradient-to-r from-purple-200 to-pink-200 group-hover:scale-105 transition-transform duration-300">
                               Commission
                             </span>
                           </div>
@@ -1157,7 +1157,7 @@ export default function Home() {
                           {section.artworks[0].description}
                         </p>
 
-                        <div className="grid grid-cols-3 gap-6">
+                        <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
                           <div className="space-y-2 group">
                             <span className="block text-purple-300/60 text-sm uppercase tracking-wider">
                               Concept
