@@ -251,7 +251,7 @@ const artworkSections: ArtworkSection[] = [
         title: "Wounds Of Blood",
         description: "An artistic blend to give a real look",
         category: "Makeup",
-        image: "/images/SFX/cheek.jpg",
+        image: "/images/SFX/Cheek.jpg",
       },
       {
         title: "Hurting Beauty",
@@ -263,7 +263,7 @@ const artworkSections: ArtworkSection[] = [
         title: "Skeletal Beauty",
         description: "Facial transformation",
         category: "Makeup",
-        image: "/images/SFX/Skeleton2.jpg",
+        image: "/images/SFX/skeleton2.jpg",
       },
       {
         title: "Gothic Dreams",
